@@ -77,8 +77,8 @@ RecycleIt provides:
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="YOUR_SCREENSHOT_LINK" width="250"/>
-  <img src="YOUR_SCREENSHOT_LINK" width="250"/>
+  <img src="https://res.cloudinary.com/deoh2liqm/image/upload/v1776710417/logo_ufe90h.jpg" width="250"/>
+  <img src="https://res.cloudinary.com/deoh2liqm/image/upload/v1776710417/WhatsApp_Image_2026-04-19_at_3.39.11_PM_1_tqxbox.jpg" width="250"/>
 </p>
 
 ---
