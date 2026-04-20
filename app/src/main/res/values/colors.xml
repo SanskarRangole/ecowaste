@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modern & Attractive Palette -->
+    <color name="primary">#00B894</color> <!-- Modern Mint Green -->
+    <color name="primary_dark">#006266</color>
+    <color name="primary_light">#55E6C1</color>
+
+    <color name="secondary">#0984E3</color> <!-- Vibrant Blue -->
+    <color name="secondary_dark">#0652DD</color>
+    <color name="secondary_light">#74B9FF</color>
+
+    <color name="accent">#F1C40F</color> <!-- Flat Yellow -->
+    <color name="accent_light">#FFEAA7</color>
+
+    <color name="background">#F8F9FA</color>
+    <color name="surface">#FFFFFF</color>
+
+    <color name="text_primary">#2D3436</color>
+    <color name="text_secondary">#636E72</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="divider">#DFE6E9</color>
+    <color name="outline">#B2BEC3</color>
+    <color name="grey">#757575</color>
+
+    <!-- Restored Missing Colors for Compatibility -->
+    <color name="medium_gray">#A4A4A4</color>
+    <color name="on_surface">#2D3436</color>
+    <color name="on_surface_variant">#636E72</color>
+    <color name="dark_gray">#333333</color>
+
+    <!-- Gradients -->
+    <color name="gradient_start">#00B894</color>
+    <color name="gradient_mid">#00D2D3</color>
+    <color name="gradient_end">#0984E3</color>
+
+    <!-- Dashboard Specific -->
+    <color name="waste_card">#E1F5FE</color>
+    <color name="co2_card">#E8F5E9</color>
+    <color name="task_card">#FFF3E0</color>
+
+    <color name="error">#D63031</color>
+    <color name="success">#00B894</color>
+    <color name="warning">#E17055</color>
+</resources>

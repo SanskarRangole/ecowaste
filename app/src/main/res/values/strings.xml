@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RecycleIT</string>
+    <string name="tagline">Waste Nothing, Save Everything</string>
+    <string name="notifications">Notifications</string>
+    <string name="mark_all_read">Mark all as read</string>
+    <string name="no_notifications">No notifications</string>
+    <string name="all_caught_up">You\'re all caught up</string>
+    <!-- Auth Strings -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="no_account">Don\'t have an account? Register</string>
+    <string name="have_account">Already have an account? Login</string>
+
+    <!-- Role Strings -->
+    <string name="select_role">Select Your Role</string>
+    <string name="individual">Individual User</string>
+    <string name="collector">Waste Collector</string>
+    <string name="center">Recycling Center</string>
+
+    <!-- Dashboard -->
+    <string name="welcome">Welcome</string>
+    <string name="request_pickup">Request Pickup</string>
+    <string name="pickup_history">Pickup History</string>
+    <string name="awareness">Awareness</string>
+    <string name="gallery">Gallery</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+
+    <!-- Pickup -->
+    <string name="waste_type">Waste Type</string>
+    <string name="weight">Estimated Weight (kg)</string>
+    <string name="address">Pickup Address</string>
+    <string name="date">Preferred Date</string>
+    <string name="time">Preferred Time</string>
+    <string name="submit_request">Submit Request</string>
+</resources>

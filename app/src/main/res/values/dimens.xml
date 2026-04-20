@@ -1,0 +1,3 @@
+<resources>
+    <dimen name="mtrl_min_touch_target_size">48dp</dimen>
+</resources>
